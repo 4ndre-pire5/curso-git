@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre.pires\\Google Drive\\DEVELOPMENT\\CURSO C#\\ProjGit\\ProjGit\\ProjGit.csproj",
+      "projectUniqueName": "E:\\PESSOAIS\\DEVELOPMENT\\CURSO C#\\ProjGit\\ProjGit\\ProjGit.csproj",
       "projectName": "ProjGit",
-      "projectPath": "C:\\Users\\andre.pires\\Google Drive\\DEVELOPMENT\\CURSO C#\\ProjGit\\ProjGit\\ProjGit.csproj",
+      "projectPath": "E:\\PESSOAIS\\DEVELOPMENT\\CURSO C#\\ProjGit\\ProjGit\\ProjGit.csproj",
       "packagesPath": "C:\\Users\\andre.pires\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre.pires\\Google Drive\\DEVELOPMENT\\CURSO C#\\ProjGit\\ProjGit\\obj\\",
+      "outputPath": "E:\\PESSOAIS\\DEVELOPMENT\\CURSO C#\\ProjGit\\ProjGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

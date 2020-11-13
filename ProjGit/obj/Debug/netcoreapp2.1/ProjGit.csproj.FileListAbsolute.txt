@@ -9,3 +9,14 @@ C:\Users\andre.pires\Google Drive\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\obj\Debug
 C:\Users\andre.pires\Google Drive\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\obj\Debug\netcoreapp2.1\ProjGit.AssemblyInfo.cs
 C:\Users\andre.pires\Google Drive\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\obj\Debug\netcoreapp2.1\ProjGit.dll
 C:\Users\andre.pires\Google Drive\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\obj\Debug\netcoreapp2.1\ProjGit.pdb
+E:\PESSOAIS\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\bin\Debug\netcoreapp2.1\ProjGit.deps.json
+E:\PESSOAIS\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\bin\Debug\netcoreapp2.1\ProjGit.runtimeconfig.json
+E:\PESSOAIS\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\bin\Debug\netcoreapp2.1\ProjGit.runtimeconfig.dev.json
+E:\PESSOAIS\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\bin\Debug\netcoreapp2.1\ProjGit.dll
+E:\PESSOAIS\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\bin\Debug\netcoreapp2.1\ProjGit.pdb
+E:\PESSOAIS\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\obj\Debug\netcoreapp2.1\ProjGit.csprojAssemblyReference.cache
+E:\PESSOAIS\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\obj\Debug\netcoreapp2.1\ProjGit.csproj.CoreCompileInputs.cache
+E:\PESSOAIS\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\obj\Debug\netcoreapp2.1\ProjGit.AssemblyInfoInputs.cache
+E:\PESSOAIS\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\obj\Debug\netcoreapp2.1\ProjGit.AssemblyInfo.cs
+E:\PESSOAIS\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\obj\Debug\netcoreapp2.1\ProjGit.dll
+E:\PESSOAIS\DEVELOPMENT\CURSO C#\ProjGit\ProjGit\obj\Debug\netcoreapp2.1\ProjGit.pdb
